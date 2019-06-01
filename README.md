@@ -6,3 +6,9 @@ This repository is used to generate a web page featuring data dashboards on baby
 ### Data Source
 Data is provided by the [Social Security Administration](https://www.ssa.gov/OACT/babynames/limits.html).
 
+### Frameworks
+* Hosted on Heroku
+* Flask
+* Plotly
+
+
