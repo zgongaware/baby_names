@@ -73,9 +73,7 @@ def generate_streaks_plot(dataframe):
         "yaxis": {
             "title": "Name"
         },
-        "autosize": False,
-        "width": 500,
-        "height": 900,
+        "autosize": True,
     }
 
     return {"data": graph, "layout": layout}
