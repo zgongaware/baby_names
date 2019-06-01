@@ -65,7 +65,7 @@ def generate_streaks_plot(dataframe):
     )
 
     layout = {
-        "title": "Longest Streaks at Rank 1",
+        "title": "Longest Rank 1 Streaks",
         "xaxis": {
             "title": "Years",
             "autotick": True
