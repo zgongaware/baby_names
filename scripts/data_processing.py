@@ -74,7 +74,7 @@ def generate_streaks_plot(dataframe):
             "title": "Name"
         },
         "autosize": False,
-        "width": 350,
+        "width": 375,
         "height": 900,
     }
 
