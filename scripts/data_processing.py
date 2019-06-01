@@ -60,7 +60,7 @@ def generate_streaks_plot(dataframe):
                 }
             },
             orientation="h",
-            opacity="0.7"
+            opacity=0.7
         )
     )
 
