@@ -10,5 +10,6 @@ Data is provided by the [Social Security Administration](https://www.ssa.gov/OAC
 * Hosted on Heroku
 * Flask
 * Plotly
+* Page design using Bootstrap
 
 
